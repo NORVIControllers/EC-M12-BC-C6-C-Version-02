@@ -69,7 +69,6 @@ or by sending the same payload from any MQTT client.
 
 ## Firmware
 
-Sketch: [`firmware/ec_m12_xy_md02_thingsboard/ec_m12_xy_md02_thingsboard.ino`](firmware/ec_m12_xy_md02_thingsboard/ec_m12_xy_md02_thingsboard.ino)
 
 - Arduino IDE board: **Generic STM32L0 Series**, part number **Generic L072CZTx**, U(S)ART support **Enabled (generic 'Serial')**, USB support **CDC**, upload method **STM32CubeProgrammer (SWD)** with an ST-Link.
 - Power source jumper: position 2 (USB) while testing.
@@ -85,4 +84,4 @@ TODO: confirm licence with the reviewer (e.g. MIT).
 
 - [NORVI EC-M12 product page](https://norvi.io/products/battery-powered-cellular-iot-data-logger/)
 - [NORVI EC-M12-BC-C6-C-B datasheet](https://norvi.io/docs/norvi-ec-m12-bc-c6-c-b-datasheet/)
-- [ThingsBoard](https://thingsboard.io)
+
