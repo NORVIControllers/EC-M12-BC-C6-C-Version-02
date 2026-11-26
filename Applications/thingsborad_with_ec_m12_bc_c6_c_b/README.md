@@ -9,7 +9,7 @@ RS-485 and sending the data to ThingsBoard over cellular (Cat-M / NB-IoT / 2G, M
 tested on an EC-M12-BC-C6-C-B (board V3) with an XY-MD02.
 The alarm rules use the Alarm Rules 2.0 format, so ThingsBoard **4.3 or newer** is required.
 
-![EC-M12 dashboard](dashboard-screenshot.png)
+<img src="https://github.com/NORVIControllers/EC-M12-BC-C6-C-Version-02/tree/main/docs/Images/dashboard-screenshot.png" width="1000" alt="My image">
 
 ## What's in this folder
 
